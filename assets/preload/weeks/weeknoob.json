@@ -1,0 +1,32 @@
+{
+	"storyName": "Doomspire brickbattle",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "roblox",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"doomspire",
+			"noob",
+			[
+				226,
+				193,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
