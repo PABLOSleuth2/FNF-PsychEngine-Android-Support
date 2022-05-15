@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "noob idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-139
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "noob left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "noob right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-154
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "noob down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-109
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "noob up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sword",
+			"loop": false,
+			"name": "sword"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/noob-mad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "noob",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		241,
+		41
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
