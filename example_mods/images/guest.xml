@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guest.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="head instance 10000" x="0" y="0" width="1669" height="455" frameX="-34" frameY="0" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10001" x="1669" y="0" width="1715" height="429" frameX="-11" frameY="-28" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10002" x="0" y="455" width="1732" height="419" frameX="-2" frameY="-38" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10003" x="1732" y="455" width="1737" height="417" frameX="0" frameY="-41" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10004" x="0" y="874" width="1737" height="416" frameX="0" frameY="-42" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10005" x="0" y="874" width="1737" height="416" frameX="0" frameY="-42" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10006" x="1737" y="874" width="1685" height="446" frameX="-26" frameY="-10" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10007" x="0" y="1320" width="1671" height="454" frameX="-33" frameY="-1" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10008" x="1671" y="1320" width="1669" height="455" frameX="-34" frameY="0" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10009" x="0" y="0" width="1669" height="455" frameX="-34" frameY="0" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10010" x="0" y="0" width="1669" height="455" frameX="-34" frameY="0" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10011" x="0" y="0" width="1669" height="455" frameX="-34" frameY="0" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10012" x="0" y="0" width="1669" height="455" frameX="-34" frameY="0" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10013" x="0" y="0" width="1669" height="455" frameX="-34" frameY="0" frameWidth="1737" frameHeight="458"/>
+	<SubTexture name="head instance 10014" x="0" y="0" width="1669" height="455" frameX="-34" frameY="0" frameWidth="1737" frameHeight="458"/>
+</TextureAtlas>

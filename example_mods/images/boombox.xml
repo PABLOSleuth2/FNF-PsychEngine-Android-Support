@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boombox.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boom instance 10000" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10001" x="366" y="0" width="393" height="346" frameX="-2" frameY="-13" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10002" x="759" y="0" width="397" height="343" frameX="0" frameY="-15" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10003" x="1156" y="0" width="397" height="343" frameX="0" frameY="-15" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10004" x="1553" y="0" width="370" height="363" frameX="-13" frameY="-2" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10005" x="0" y="366" width="366" height="366" frameX="-15" frameY="0" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10006" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10007" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10008" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10009" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10010" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10011" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10012" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10013" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+	<SubTexture name="boom instance 10014" x="0" y="0" width="366" height="366" frameX="-15" frameY="-1" frameWidth="397" frameHeight="367"/>
+</TextureAtlas>

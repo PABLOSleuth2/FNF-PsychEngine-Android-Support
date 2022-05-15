@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="balls69 instance 10000" x="0" y="0" width="355" height="584" frameX="-10" frameY="0" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10001" x="355" y="0" width="373" height="562" frameX="-2" frameY="-23" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10002" x="728" y="0" width="378" height="556" frameX="0" frameY="-29" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10003" x="1106" y="0" width="378" height="555" frameX="0" frameY="-30" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10004" x="1484" y="0" width="378" height="554" frameX="0" frameY="-30" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10005" x="0" y="584" width="364" height="572" frameX="-6" frameY="-12" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10006" x="364" y="584" width="357" height="580" frameX="-9" frameY="-4" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10007" x="721" y="584" width="355" height="584" frameX="-10" frameY="0" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10008" x="1076" y="584" width="355" height="584" frameX="-10" frameY="0" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10009" x="0" y="0" width="355" height="584" frameX="-10" frameY="0" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10010" x="0" y="0" width="355" height="584" frameX="-10" frameY="0" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10011" x="0" y="0" width="355" height="584" frameX="-10" frameY="0" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10012" x="0" y="0" width="355" height="584" frameX="-10" frameY="0" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10013" x="0" y="0" width="355" height="584" frameX="-10" frameY="0" frameWidth="378" frameHeight="585"/>
+	<SubTexture name="balls69 instance 10014" x="0" y="0" width="355" height="584" frameX="-10" frameY="0" frameWidth="378" frameHeight="585"/>
+</TextureAtlas>

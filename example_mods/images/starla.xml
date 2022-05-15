@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starla.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yellow instance 10000" x="0" y="0" width="381" height="614" frameX="0" frameY="0" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10001" x="381" y="0" width="385" height="587" frameX="-2" frameY="-27" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10002" x="766" y="0" width="387" height="573" frameX="-4" frameY="-41" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10003" x="1153" y="0" width="391" height="569" frameX="-5" frameY="-45" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10004" x="1544" y="0" width="391" height="568" frameX="-5" frameY="-46" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10005" x="0" y="614" width="385" height="595" frameX="-1" frameY="-19" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10006" x="385" y="614" width="383" height="607" frameX="0" frameY="-7" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10007" x="768" y="614" width="382" height="612" frameX="0" frameY="-2" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10008" x="1150" y="614" width="381" height="613" frameX="0" frameY="-1" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10009" x="0" y="0" width="381" height="614" frameX="0" frameY="0" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10010" x="0" y="0" width="381" height="614" frameX="0" frameY="0" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10011" x="0" y="0" width="381" height="614" frameX="0" frameY="0" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10012" x="0" y="0" width="381" height="614" frameX="0" frameY="0" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10013" x="0" y="0" width="381" height="614" frameX="0" frameY="0" frameWidth="396" frameHeight="614"/>
+	<SubTexture name="yellow instance 10014" x="0" y="0" width="381" height="614" frameX="0" frameY="0" frameWidth="396" frameHeight="614"/>
+</TextureAtlas>
