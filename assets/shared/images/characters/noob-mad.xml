@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noob-mad.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="noob down instance 10000" x="0" y="0" width="403" height="462" frameX="-10" frameY="0" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob down instance 10001" x="0" y="0" width="403" height="462" frameX="-10" frameY="0" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob down instance 10002" x="403" y="0" width="419" height="436" frameX="0" frameY="-26" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob down instance 10003" x="403" y="0" width="419" height="436" frameX="0" frameY="-26" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob down instance 10004" x="403" y="0" width="419" height="436" frameX="0" frameY="-26" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob down instance 10005" x="403" y="0" width="419" height="436" frameX="0" frameY="-26" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob down instance 10006" x="403" y="0" width="419" height="436" frameX="0" frameY="-26" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob down instance 10007" x="403" y="0" width="419" height="436" frameX="0" frameY="-26" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob down instance 10008" x="403" y="0" width="419" height="436" frameX="0" frameY="-26" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob down instance 10009" x="403" y="0" width="419" height="436" frameX="0" frameY="-26" frameWidth="419" frameHeight="462"/>
+	<SubTexture name="noob idle instance 10000" x="822" y="0" width="370" height="475" frameX="0" frameY="0" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob idle instance 10001" x="1192" y="0" width="383" height="468" frameX="-1" frameY="-7" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob idle instance 10002" x="1575" y="0" width="389" height="465" frameX="-1" frameY="-10" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob idle instance 10003" x="1964" y="0" width="392" height="464" frameX="-1" frameY="-11" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob idle instance 10004" x="2356" y="0" width="392" height="464" frameX="-1" frameY="-11" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob idle instance 10005" x="2748" y="0" width="392" height="464" frameX="-1" frameY="-11" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob idle instance 10006" x="3140" y="0" width="376" height="472" frameX="0" frameY="-3" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob idle instance 10007" x="3516" y="0" width="371" height="475" frameX="0" frameY="0" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob idle instance 10008" x="0" y="475" width="370" height="475" frameX="0" frameY="0" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob idle instance 10009" x="822" y="0" width="370" height="475" frameX="0" frameY="0" frameWidth="393" frameHeight="475"/>
+	<SubTexture name="noob left instance 10000" x="370" y="475" width="396" height="475"/>
+	<SubTexture name="noob left instance 10001" x="370" y="475" width="396" height="475"/>
+	<SubTexture name="noob left instance 10002" x="766" y="475" width="386" height="475" frameX="-4" frameY="0" frameWidth="396" frameHeight="475"/>
+	<SubTexture name="noob left instance 10003" x="766" y="475" width="386" height="475" frameX="-4" frameY="0" frameWidth="396" frameHeight="475"/>
+	<SubTexture name="noob left instance 10004" x="766" y="475" width="386" height="475" frameX="-4" frameY="0" frameWidth="396" frameHeight="475"/>
+	<SubTexture name="noob left instance 10005" x="766" y="475" width="386" height="475" frameX="-4" frameY="0" frameWidth="396" frameHeight="475"/>
+	<SubTexture name="noob left instance 10006" x="766" y="475" width="386" height="475" frameX="-4" frameY="0" frameWidth="396" frameHeight="475"/>
+	<SubTexture name="noob left instance 10007" x="766" y="475" width="386" height="475" frameX="-4" frameY="0" frameWidth="396" frameHeight="475"/>
+	<SubTexture name="noob left instance 10008" x="766" y="475" width="386" height="475" frameX="-4" frameY="0" frameWidth="396" frameHeight="475"/>
+	<SubTexture name="noob left instance 10009" x="766" y="475" width="386" height="475" frameX="-4" frameY="0" frameWidth="396" frameHeight="475"/>
+	<SubTexture name="noob right instance 10000" x="1152" y="475" width="468" height="475"/>
+	<SubTexture name="noob right instance 10001" x="1152" y="475" width="468" height="475"/>
+	<SubTexture name="noob right instance 10002" x="1620" y="475" width="456" height="475" frameX="-5" frameY="0" frameWidth="468" frameHeight="475"/>
+	<SubTexture name="noob right instance 10003" x="1620" y="475" width="456" height="475" frameX="-5" frameY="0" frameWidth="468" frameHeight="475"/>
+	<SubTexture name="noob right instance 10004" x="1620" y="475" width="456" height="475" frameX="-5" frameY="0" frameWidth="468" frameHeight="475"/>
+	<SubTexture name="noob right instance 10005" x="1620" y="475" width="456" height="475" frameX="-5" frameY="0" frameWidth="468" frameHeight="475"/>
+	<SubTexture name="noob right instance 10006" x="1620" y="475" width="456" height="475" frameX="-5" frameY="0" frameWidth="468" frameHeight="475"/>
+	<SubTexture name="noob right instance 10007" x="1620" y="475" width="456" height="475" frameX="-5" frameY="0" frameWidth="468" frameHeight="475"/>
+	<SubTexture name="noob right instance 10008" x="1620" y="475" width="456" height="475" frameX="-5" frameY="0" frameWidth="468" frameHeight="475"/>
+	<SubTexture name="noob right instance 10009" x="1620" y="475" width="456" height="475" frameX="-5" frameY="0" frameWidth="468" frameHeight="475"/>
+	<SubTexture name="noob up instance 10000" x="2076" y="475" width="386" height="497" frameX="0" frameY="-9" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="noob up instance 10001" x="2076" y="475" width="386" height="497" frameX="0" frameY="-9" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="noob up instance 10002" x="2462" y="475" width="368" height="506" frameX="-6" frameY="0" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="noob up instance 10003" x="2462" y="475" width="368" height="506" frameX="-6" frameY="0" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="noob up instance 10004" x="2462" y="475" width="368" height="506" frameX="-6" frameY="0" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="noob up instance 10005" x="2462" y="475" width="368" height="506" frameX="-6" frameY="0" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="noob up instance 10006" x="2462" y="475" width="368" height="506" frameX="-6" frameY="0" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="noob up instance 10007" x="2462" y="475" width="368" height="506" frameX="-6" frameY="0" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="noob up instance 10008" x="2462" y="475" width="368" height="506" frameX="-6" frameY="0" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="noob up instance 10009" x="2462" y="475" width="368" height="506" frameX="-6" frameY="0" frameWidth="386" frameHeight="506"/>
+	<SubTexture name="sword instance 10000" x="2830" y="475" width="369" height="475" frameX="0" frameY="0" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10001" x="2830" y="475" width="369" height="475" frameX="0" frameY="0" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10002" x="2830" y="475" width="369" height="475" frameX="0" frameY="0" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10003" x="2830" y="475" width="369" height="475" frameX="0" frameY="0" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10004" x="3199" y="475" width="385" height="475" frameX="0" frameY="0" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10005" x="3199" y="475" width="385" height="475" frameX="0" frameY="0" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10006" x="3584" y="475" width="390" height="475" frameX="0" frameY="0" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10007" x="3584" y="475" width="390" height="475" frameX="0" frameY="0" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10008" x="0" y="981" width="374" height="475" frameX="0" frameY="0" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10009" x="374" y="981" width="374" height="472" frameX="0" frameY="-3" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10010" x="748" y="981" width="359" height="470" frameX="0" frameY="-5" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10011" x="1107" y="981" width="359" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10012" x="1466" y="981" width="355" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10013" x="1821" y="981" width="355" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10014" x="2176" y="981" width="359" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10015" x="2535" y="981" width="359" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10016" x="2894" y="981" width="372" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10017" x="3266" y="981" width="372" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10018" x="3638" y="981" width="372" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10019" x="0" y="1456" width="365" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10020" x="0" y="1456" width="365" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10021" x="0" y="1456" width="365" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10022" x="0" y="1456" width="365" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10023" x="0" y="1456" width="365" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10024" x="0" y="1456" width="365" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10025" x="0" y="1456" width="365" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10026" x="0" y="1456" width="365" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10027" x="365" y="1456" width="366" height="468" frameX="0" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10028" x="731" y="1456" width="363" height="468" frameX="-1" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10029" x="1094" y="1456" width="351" height="468" frameX="-4" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10030" x="1445" y="1456" width="349" height="468" frameX="-4" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10031" x="1794" y="1456" width="350" height="468" frameX="-4" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10032" x="1794" y="1456" width="350" height="468" frameX="-4" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10033" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10034" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10035" x="2496" y="1456" width="353" height="468" frameX="-9" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10036" x="2496" y="1456" width="353" height="468" frameX="-9" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10037" x="2849" y="1456" width="397" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10038" x="2849" y="1456" width="397" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10039" x="3246" y="1456" width="428" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10040" x="3246" y="1456" width="428" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10041" x="0" y="1924" width="443" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10042" x="0" y="1924" width="443" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10043" x="0" y="1924" width="443" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10044" x="3246" y="1456" width="428" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10045" x="3246" y="1456" width="428" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10046" x="2849" y="1456" width="397" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10047" x="2849" y="1456" width="397" height="459" frameX="-15" frameY="-16" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10048" x="2496" y="1456" width="353" height="468" frameX="-9" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10049" x="2496" y="1456" width="353" height="468" frameX="-9" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10050" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10051" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10052" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10053" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10054" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10055" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10056" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10057" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10058" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10059" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10060" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10061" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10062" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10063" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10064" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10065" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+	<SubTexture name="sword instance 10066" x="2144" y="1456" width="352" height="468" frameX="-6" frameY="-7" frameWidth="458" frameHeight="475"/>
+</TextureAtlas>
